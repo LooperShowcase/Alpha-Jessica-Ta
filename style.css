@@ -1,0 +1,65 @@
+#nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: gray;
+}
+
+.bar {
+  float: left;
+}
+
+.bar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.bar a:hover {
+  background-color: #111;
+}
+
+h1 {
+  color: darkblue;
+  font-family: "Playfair Display", serif;
+}
+h2 {
+  color: darkblue;
+  font-family: "Playfair Display", serif;
+}
+
+body {
+  background-color: rgb(201, 201, 201);
+}
+h3 {
+  color: darkblue;
+  font-family: "Playfair Display", serif;
+}
+h4 {
+  color: darkblue;
+  font-family: "Playfair Display", serif;
+}
+h5 {
+  color: darkblue;
+}
+p {
+  color: darkslategray;
+  font-family: "Dosis", sans-serif;
+}
+hr {
+  background-color: rgb(0, 0, 0);
+  height: 1px;
+  font-family: "Playfair Display", serif;
+}
+#jessica1 {
+  background-color: rgb(215, 215, 215);
+}
+#jessica2 {
+  background-color: rgba(223, 222, 222, 0.679);
+}
+#jessica3 {
+  background-color: rgb(230, 230, 230);
+}
